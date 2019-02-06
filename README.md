@@ -7,6 +7,8 @@
 
 웹 크롤링이란 인터넷에 있는 웹페이지를 방문해서 자료를 수집하는 일을 말한다. 
 
+    Reference : [wiki - Web crawler](https://en.wikipedia.org/wiki/Web_crawler)
+
 ### Prerequisites & Installing
 
 * Flask
