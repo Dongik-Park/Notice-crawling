@@ -29,7 +29,7 @@
 
 * DialogFlow
 
-    Dialogflow는 웹사이트, 모바일 애플리케이션, 널리 사용되는 메시지 플랫폼, IoT 기기의 대화 인터페이스를 구축할 수 있는 엔드 투 엔드 개발 도구로, 한번 구축하면 어느 곳에나 배포할 수 있습니다. 이를 통해 사용자와 기업 간의 자연스러우면서 다양한 상호작용이 가능한 인터페이스(예: 채팅봇, 대화형 IVR)를 구축할 수 있습니다. Dialogflow Enterprise 버전 사용자는 Google Cloud 지원을 이용할 수 있으며 프로덕션 배포에 서비스수준계약(SLA)이 적용됩니다.
+    Dialogflow는 웹사이트, 모바일 애플리케이션, 널리 사용되는 메시지 플랫폼, IoT 기기의 대화 인터페이스를 구축할 수 있는 엔드 투 엔드 개발 도구로, 한번 구축하면 어느 곳에나 배포할 수 있다. 이를 통해 사용자와 기업 간의 자연스러우면서 다양한 상호작용이 가능한 인터페이스(예: 채팅봇, 대화형 IVR)를 구축할 수 있다. Dialogflow Enterprise 버전 사용자는 Google Cloud 지원을 이용할 수 있으며 프로덕션 배포에 서비스수준계약(SLA)이 적용된다.
 
     Reference : https://cloud.google.com/dialogflow-enterprise/?hl=ko
     
